@@ -11,6 +11,8 @@ A simple bus reservation system that allows users to view available buses, reser
 - Track reservations with unique Reservation IDs
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/vetri2601/Bus-Reservation-System.git
+
+1. Clone the repository: `git clone https://github.com/vetri2601/Bus-Reservation-System.git`
+2. Navigate to the project directory: `cd Bus-Reservation-System`
+3. Compile the Java files: `javac *.java`
+4. Run the project: `java EnhancedBusReservationSystem`
